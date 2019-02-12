@@ -1,0 +1,8 @@
+{
+  "name": "reserve",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "67a2c83c"
+}
